@@ -30,5 +30,5 @@ My passion for understanding and configuring technology has driven me to pursue 
 </div>
 
 ## Projects
-- (Currently updating)
+- <a href="https://github.com/FirewallFury/SOC-Analyst-Lab/tree/main">SOC Analyst </a> 
 - 
